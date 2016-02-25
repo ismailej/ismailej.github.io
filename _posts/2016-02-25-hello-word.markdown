@@ -1,2 +1,2 @@
 # Hi
-test post !
+My first public blog :)
