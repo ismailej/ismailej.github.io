@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ismailej.github.io
+title: ismailej
+tagline: Hello World
+description: My awesome new site
+paginate: 5
